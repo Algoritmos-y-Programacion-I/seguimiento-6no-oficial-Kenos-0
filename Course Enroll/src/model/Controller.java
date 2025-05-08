@@ -1,6 +1,7 @@
 package model;
 
 public class Controller {
+    
     private Course course;
 
     public Controller() {

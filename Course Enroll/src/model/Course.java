@@ -2,7 +2,9 @@ package model;
 
 import customExceptions.QuotaEnrollExceedException;
 import customExceptions.OutOfRangeGradeException;
-import java.util.*;
+import java.util.List;
+import java.util.ArrayList;
+
 
 public class Course {
     private double maxGrade, minGrade;
